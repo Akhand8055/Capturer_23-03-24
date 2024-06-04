@@ -233,6 +233,10 @@ nav {
   content: "Family and Baby";
 }
 
+.portfolio__card:nth-child(6)::after {
+  content: "Fashion Photography";
+}
+
 .portfolio__content {
   position: absolute;
   top: 0;
